@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/AbstractFactoryModel/AbstractFactoryModel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/AdapterMode/Adapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/AdapterMode/Target.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/BuilderMode/BuilderMode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/BuilderMode/Cai.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/FactoryMethodModel/FactoryMethodModel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/FactoryMethodModel/Tree.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ObserverMode/ObserverMode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ObserverMode/Product.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ObserverMode/ProductControl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ProxyMode/People.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ProxyMode/ProxyMode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/ProxyMode/TalkProxy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/StrategyMode/BackDoor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/StrategyMode/BlackEnemy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/StrategyMode/Context.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/StrategyMode/GivenGreenLight.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/StrategyMode/IStrategy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/StrategyMode/StrategyMode.java" charset="GBK" />
+  </component>
+</project>
