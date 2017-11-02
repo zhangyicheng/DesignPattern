@@ -1,2 +1,2 @@
-# DesignMode
-1.Android design mode;
+# Design Pattern;
+1.Android design pattern;
